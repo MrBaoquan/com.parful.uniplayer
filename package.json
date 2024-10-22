@@ -1,0 +1,19 @@
+{
+    "name": "com.parful.uniplayer",
+    "author": {
+        "name": "MrBaoquan",
+        "email": "mrma617@gmail.com"
+    },
+    "version": "1.0.0",
+    "description": "UNIHper is a Unity game engine extension that provides a set of tools for game development",
+    "keywords": ["framework","development","game"],
+    "displayName": "UNIPlayer Controller",
+    "unity": "2019.1",
+    "type": "tool",
+    "dependencies": {
+        "com.parful.unihper": "1.24.1010"
+    },
+    "documentationUrl": "https://parful.gitbook.io/unihper-docs",
+    "changelogUrl": "https://github.com/MrBaoquan/UNIHper",
+    "samples":[]
+}
