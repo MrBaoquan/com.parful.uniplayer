@@ -84,8 +84,9 @@ public class UNIPlayer : UConfig
     protected override string Comment()
     {
         return @"
-
-        <VideoMap Name=""陶庙镇"" Key=""v1"" />
+        配置示例:
+        <VideoMap Name=""视频按钮1"" Key=""v1"" />
+        <VideoMap Name=""视频按钮2"" Key=""v2"" />
         ";
     }
 

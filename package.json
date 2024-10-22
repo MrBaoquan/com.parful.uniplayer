@@ -5,9 +5,9 @@
         "email": "mrma617@gmail.com"
     },
     "version": "1.0.0",
-    "description": "UNIHper is a Unity game engine extension that provides a set of tools for game development",
+    "description": "网络控制UNIPlayer的插件",
     "keywords": ["framework","development","game"],
-    "displayName": "UNIPlayer Controller",
+    "displayName": "UNIPlayer Net Controller",
     "unity": "2019.1",
     "type": "tool",
     "dependencies": {
@@ -15,5 +15,11 @@
     },
     "documentationUrl": "https://parful.gitbook.io/unihper-docs",
     "changelogUrl": "https://github.com/MrBaoquan/UNIHper",
-    "samples":[]
+    "samples":[
+        {
+            "displayName": "UNIPlayer Sample",
+            "description": "通过网络控制UNIPlayer示例",
+            "path": "Samples~/Basic Usage"
+        }
+    ]
 }
